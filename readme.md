@@ -1,4 +1,4 @@
 ------------1st commit----------------
--Alamofire 와 cocoapods 를 사용하여 구현 \n
+-Alamofire 와 cocoapods 를 사용하여 구현
 -기본 UI 구현 및 Outlet 연결
 --------------------------------------
